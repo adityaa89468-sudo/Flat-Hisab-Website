@@ -1,0 +1,8 @@
+{
+  "name": "FaceTrack Attendance",
+  "description": "A sophisticated facial recognition attendance system for educational institutions, allowing automated logging for registered students and comprehensive reporting for teachers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
